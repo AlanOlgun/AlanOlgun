@@ -1,7 +1,6 @@
-
-- 👋 Hi, I’m @AlanOlgun
-- 🌱 I’m currently learning React, Redux and Next.js
-- 🥇 I majored in Optometry and Vision Science.
-- 🚅 My hometown is Turkey and I live In Australia.
-- 📫 You reach me from hello@alanolgun.com
-
+👋 Hi, I’m Alan Olgun, a Front-end developer
+🌱 Currently, learning React, Redux and Next.js
+🕶 Previously been Optometrist and Entrepreneur 
+🥇 Studied Optometry and Vision Science & Business 
+🌏 Born in Turkey 🇹🇷 and based ​in Sydney 🇦🇺
+📫 Let's connect: hello@alanolgun.com
