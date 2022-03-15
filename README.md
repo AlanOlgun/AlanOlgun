@@ -4,7 +4,7 @@
 
 🕶 Previously been Optometrist and Entrepreneur 
 
-🥇 Studied Optometry and Vision Science & Business 
+🥇 Studied Optometry and Vision Science & Business Administration 
 
 🌏 Born in Turkey 🇹🇷 and based ​in Sydney 🇦🇺
 
